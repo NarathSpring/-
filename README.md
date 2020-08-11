@@ -1,9 +1,13 @@
 # 全国省市区信息
 
-- 省份
-- 简称
-- 市
-- 区
-- 区号
-- 邮编
-- 车牌编码
+Province:
+- Code:
+- Cities: 
+- Abbreviation:
+- 
+
+City：
+- Code:
+- Name: 
+- Postcode: 
+- CarPlate:

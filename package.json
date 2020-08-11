@@ -1,0 +1,17 @@
+{
+  "name": "city-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/NarathSpring/-.git",
+  "author": "NarathSpring <valentine.xu@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "yaml": "^1.10.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.7",
+    "@types/express": "^4.17.7",
+    "@types/yaml": "^1.9.7"
+  }
+}
