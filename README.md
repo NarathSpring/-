@@ -1,13 +1,17 @@
 # 全国省市区信息
 
-Province:
-- Code:
-- Cities: 
-- Abbreviation:
-- 
+## 省份信息
 
-City：
-- Code:
-- Name: 
-- Postcode: 
-- CarPlate:
+```
+// get method
+
+/province/省份
+```
+
+## 城市信息
+
+```
+// get method
+
+/city/城市
+```
