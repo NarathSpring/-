@@ -1,9 +1,161 @@
+# 北京
 东城区:
-  Code:
-  CarPlate: "粤B"
-  Level: "地级市"
-  MunicipalDistrict: "罗湖区、福田区、南山区、宝安区、公明区、龙岗区、龙华区"
-  Name: "深圳市"
-  PhoneCode: "0755"
-  Postcode: "518000"
-  Province: "广东省"
+  Code: "110101"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "东城区"
+  PhoneCode: ""
+  Postcode: "100010"
+  Province: "北京市"
+
+西城区:
+  Code: "110102"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "西城区"
+  PhoneCode: ""
+  Postcode: "100032"
+  Province: "北京市"
+
+朝阳区:
+  Code: "110105"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "朝阳区"
+  PhoneCode: ""
+  Postcode: "100020"
+  Province: "北京市"
+
+丰台区:
+  Code: "110106"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "丰台区"
+  PhoneCode: ""
+  Postcode: "100071"
+  Province: "北京市"
+
+石景山区:
+  Code: "110107"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "石景山区"
+  PhoneCode: ""
+  Postcode: "100043"
+  Province: "北京市"
+
+海淀区:
+  Code: "110108"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "海淀区"
+  PhoneCode: ""
+  Postcode: "100089"
+  Province: "北京市"
+
+门头沟区:
+  Code: "110109"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "门头沟区"
+  PhoneCode: ""
+  Postcode: "102300"
+  Province: "北京市"
+
+房山区:
+  Code: "110111"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "房山区"
+  PhoneCode: ""
+  Postcode: "102488"
+  Province: "北京市"
+
+通州区:
+  Code: "110112"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "通州区"
+  PhoneCode: ""
+  Postcode: "101149"
+  Province: "北京市"
+
+顺义区:
+  Code: "110113"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "顺义区"
+  PhoneCode: ""
+  Postcode: "101300"
+  Province: "北京市"
+
+昌平区:
+  Code: "110114"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "昌平区"
+  PhoneCode: ""
+  Postcode: "102200"
+  Province: "北京市"
+
+大兴区:
+  Code: "110115"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "大兴区"
+  PhoneCode: ""
+  Postcode: "102600"
+  Province: "北京市"
+
+怀柔区:
+  Code: "110116"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "怀柔区"
+  PhoneCode: ""
+  Postcode: "101400"
+  Province: "北京市"
+
+平谷区:
+  Code: "110117"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "平谷区"
+  PhoneCode: ""
+  Postcode: "101200"
+  Province: "北京市"
+
+密云区:
+  Code: "110118"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "密云区"
+  PhoneCode: ""
+  Postcode: "101500"
+  Province: "北京市"
+
+延庆区:
+  Code: "110119"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "延庆区"
+  PhoneCode: ""
+  Postcode: "102100"
+  Province: "北京市"
+
