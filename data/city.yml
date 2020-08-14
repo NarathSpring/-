@@ -320,3 +320,124 @@
   Postcode: "301900"
   Province: "天津市"
 
+# 河北
+石家庄:
+  Code: "130100"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "长安区、桥西区、新华区、井陉矿区、裕华区、来城区、辛集市、新乐市、井陉县、深泽县、无极县、平山县、赵县"
+  Name: "石家庄市"
+  PhoneCode: "0311"
+  Postcode: "050011"
+  Province: "河北省"
+
+唐山:
+  Code: "130200"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "路北区、路南区、古治区、开平区、丰南区、丰润区、妃甸区、遵化市、迁安市、藻州市、滦南县、乐亭县、迁西县、玉田县"
+  Name: "唐山市"
+  PhoneCode: "0315"
+  Postcode: "063000"
+  Province: "河北省"
+
+秦皇岛:
+  Code: "130300"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "海港区、山海关区、北戴河区、抚宁区、昌黎县、卢龙县、青龙满族自治县"
+  Name: "秦皇岛市"
+  PhoneCode: "0335"
+  Postcode: "066000"
+  Province: "河北省"
+
+邯郸:
+  Code: "130400"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "丛台区、邯山区、复兴区、峰峰矿区、肥乡区、永年区、武安市、临渣县、大名县、涉县、磁县、邱县、广平县、馆陶县、魏县、曲周县"
+  Name: "邯郸市"
+  PhoneCode: "0310"
+  Postcode: "056002"
+  Province: "河北省"
+
+邢台:
+  Code: "130500"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "桥东区、桥西区、南宫市、沙河市、邢台县、临城县、内丘县、柏乡县、隆尧县、任县、南和县、宁晋县、巨鹿县、广宗县、平乡县、清河县、临西县"
+  Name: "邢台市"
+  PhoneCode: "0319"
+  Postcode: "054001"
+  Province: "河北省"
+
+保定:
+  Code: "130600"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "竞秀区、莲池区、青苑区、涿州市、定州市、安国市、高碑店市、涞水县、唐县、高阳县、容城县、易县、顺平县、博野县、雄县"
+  Name: "保定市"
+  PhoneCode: "0312"
+  Postcode: "071052"
+  Province: "河北省"
+
+张家口:
+  Code: "130700"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "桥西区、桥东区、宣化区、下花园区、万全区、张北县、康保县、古源县、尚义县、蔚县、阳原县、怀安县、涿鹿县、赤城县"
+  Name: "张家口市"
+  PhoneCode: "0313"
+  Postcode: "075000"
+  Province: "河北省"
+
+承德:
+  Code: "130800"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "双桥区、双滦区、唐手营子矿区、平泉市、承德县、兴隆县、滦平县、隆化县、丰宁满族自治县、宽城满族自治县、围场满族蒙古族自治县"
+  Name: "承德市"
+  PhoneCode: "0314"
+  Postcode: "067000"
+  Province: "河北省"
+
+沧州:
+  Code: "130900"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "运河区、新华区、泊头市、任丘市、黄骅市、河间市、沧县、青县、东光县、海兴县、盐山县、肃宁县、南皮县、吴桥县、献县、孟村回族自治县"
+  Name: "沧州市"
+  PhoneCode: "0317"
+  Postcode: "061001"
+  Province: "河北省"
+
+廊坊:
+  Code: "131000"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "广阳区、安次区、霸州市、二河市、安县、永清县、香河县、大城县、文安县、大厂回族自治县"
+  Name: "廊坊市"
+  PhoneCode: "0316"
+  Postcode: "065000"
+  Province: "河北省"
+
+衡水:
+  Code: "131100"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "桃城区、黄州区、深州市、枣强县、武邑县、武强县、饶阳县、安平县、故城县、景县、阜域县"
+  Name: "衡水市"
+  PhoneCode: "0318"
+  Postcode: "053000"
+  Province: "河北省"
+
+# 山西
+:
+  Code: ""
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: ""
+  PhoneCode: ""
+  Postcode: ""
+  Province: "山西省"
