@@ -159,3 +159,164 @@
   Postcode: "102100"
   Province: "北京市"
 
+# 天津
+河西区:
+  Code: "120103"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "区"
+  PhoneCode: ""
+  Postcode: "300202"
+  Province: "天津市"
+
+和平区:
+  Code: "120101"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "和平区"
+  PhoneCode: ""
+  Postcode: "300041"
+  Province: "天津市"
+
+河东区:
+  Code: "120102"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "河东区"
+  PhoneCode: ""
+  Postcode: "300171"
+  Province: "天津市"
+
+南开区:
+  Code: "120104"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "南开区"
+  PhoneCode: ""
+  Postcode: "300110"
+  Province: "天津市"
+
+河北区:
+  Code: "120105"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "河北区"
+  PhoneCode: ""
+  Postcode: "300143"
+  Province: "天津市"
+
+红桥区:
+  Code: "120106"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "红桥区"
+  PhoneCode: ""
+  Postcode: "300131"
+  Province: "天津市"
+
+东丽区:
+  Code: "120110"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "东丽区"
+  PhoneCode: ""
+  Postcode: "300300"
+  Province: "天津市"
+
+西青区:
+  Code: "120111"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "西青区"
+  PhoneCode: ""
+  Postcode: "300380"
+  Province: "天津市"
+
+津南区:
+  Code: "120112"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "津南区"
+  PhoneCode: ""
+  Postcode: "300350"
+  Province: "天津市"
+
+北辰区:
+  Code: "120113"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "北辰区"
+  PhoneCode: ""
+  Postcode: "300400"
+  Province: "天津市"
+
+武清区:
+  Code: "120114"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "武清区"
+  PhoneCode: ""
+  Postcode: "301700"
+  Province: "天津市"
+
+宝坻区:
+  Code: "120115"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "宝坻区"
+  PhoneCode: ""
+  Postcode: "301800"
+  Province: "天津市"
+
+海滨新区:
+  Code: "120116"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "海滨新区"
+  PhoneCode: ""
+  Postcode: "300451"
+  Province: "天津市"
+
+宁河区:
+  Code: "120117"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "宁河区"
+  PhoneCode: ""
+  Postcode: "301500"
+  Province: "天津市"
+
+静海区:
+  Code: "120118"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "静海区"
+  PhoneCode: ""
+  Postcode: "301600"
+  Province: "天津市"
+
+蓟州区:
+  Code: "120119"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "蓟州区"
+  PhoneCode: ""
+  Postcode: "301900"
+  Province: "天津市"
+
