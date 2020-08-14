@@ -432,12 +432,114 @@
   Province: "河北省"
 
 # 山西
-:
-  Code: ""
+太原:
+  Code: "140100"
   CarPlate: ""
   Level: "地级市"
   MunicipalDistrict: ""
-  Name: ""
-  PhoneCode: ""
-  Postcode: ""
+  Name: "太原市"
+  PhoneCode: "0351"
+  Postcode: "030082"
   Province: "山西省"
+
+大同:
+  Code: "140200"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: "大同市"
+  PhoneCode: "0352"
+  Postcode: "037008"
+  Province: "山西省"
+
+阳泉:
+  Code: "140300"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: "阳泉市"
+  PhoneCode: "0353"
+  Postcode: "045000"
+  Province: "山西省"
+
+长治:
+  Code: "140400"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: "长治市"
+  PhoneCode: "0355"
+  Postcode: "046000"
+  Province: "山西省"
+
+晋城市:
+  Code: "140500"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: "晋城市"
+  PhoneCode: "0356"
+  Postcode: "048000"
+  Province: "山西省"
+
+朔州:
+  Code: "140600"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: "朔州市"
+  PhoneCode: "0349"
+  Postcode: "038500"
+  Province: "山西省"
+
+晋中:
+  Code: "140700"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: "晋中市"
+  PhoneCode: "0354"
+  Postcode: "030600"
+  Province: "山西省"
+
+运城:
+  Code: "140800"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: "运城市"
+  PhoneCode: "0359"
+  Postcode: "044000"
+  Province: "山西省"
+
+忻州:
+  Code: "140900"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: "忻州市"
+  PhoneCode: "0350"
+  Postcode: "034000"
+  Province: "山西省"
+
+临汾:
+  Code: "141000"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: "临汾市"
+  PhoneCode: "0357"
+  Postcode: "041000"
+  Province: "山西省"
+
+吕梁:
+  Code: "141100"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: "吕梁市"
+  PhoneCode: "0358"
+  Postcode: "033000"
+  Province: "山西省"
+
+# 内蒙古
