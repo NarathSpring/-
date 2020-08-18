@@ -895,3 +895,133 @@
   Postcode: "133000"
   Province: "吉林省"
 
+# 黑龙江省
+哈尔滨市:
+  Code: "230100"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "松北区、道里区、南岗区、道外区、平房区、香坊区、尚志市、五常市、依三县、方正县、宾县、巴彦县、木兰县、通河县、延寿县"
+  Name: "哈尔滨市"
+  PhoneCode: "0451"
+  Postcode: "150010"
+  Province: "黑龙江省"
+
+齐齐哈尔市:
+  Code: "230200"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "建华区、龙沙区、铁锋区、昂昂溪区、拉尔基区、碾子山区、梅里斯达斡尔族区、讷河市、龙江县、依安县、泰来县、甘南县、富裕县、克山县、克东县、拜泉县"
+  Name: "齐齐哈尔市"
+  PhoneCode: "0452"
+  Postcode: "161005"
+  Province: "黑龙江省"
+
+鸡西市:
+  Code: "230300"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "鸡冠区、恒山区、滴道区、梨树区、城子河区、麻山区、虎林市、密山市、鸡东县"
+  Name: "鸡西市"
+  PhoneCode: "0467"
+  Postcode: "158100"
+  Province: "黑龙江省"
+
+鹤岗市:
+  Code: "230400"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "向阳区、工农区、南山区、兴安区、东山区、兴山区、萝北县、绥滨县"
+  Name: "鹤岗市"
+  PhoneCode: "0468"
+  Postcode: "154100"
+  Province: "黑龙江省"
+
+双鸭山市:
+  Code: "230500"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "尖山区、岭东区、四方台区、宝山区、集贤县、友谊县、宝清县、饶河县"
+  Name: "双鸭山市"
+  PhoneCode: "0469"
+  Postcode: "155100"
+  Province: "黑龙江省"
+
+大庆市:
+  Code: "230600"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "萨尔图区、龙凤区、让胡路区、红岗区、大同区、肇州县、肇源县、林甸县、杜尔伯特蒙古族自治县"
+  Name: "大庆市"
+  PhoneCode: "0459"
+  Postcode: "163000"
+  Province: "黑龙江省"
+
+伊春市:
+  Code: "230700"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "伊美区、乌翠区、友好区、金林区、铁力市、嘉荫县、汤旺县、丰林县、大管山县、南岔县"
+  Name: "伊春市"
+  PhoneCode: "0458"
+  Postcode: "153000"
+  Province: "黑龙江省"
+
+佳木斯市:
+  Code: "230800"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "前进区、向阳区、东风区、郊区、同江市、富锦市、抚远市、桦南县、桦川县、汤原县"
+  Name: "佳木斯市"
+  PhoneCode: "0454"
+  Postcode: "154002"
+  Province: "黑龙江省"
+
+七台河市:
+  Code: "230900"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "桃山区、新兴区、茄子河区、勃利县"
+  Name: "七台河市"
+  PhoneCode: "0464"
+  Postcode: "154600"
+  Province: "黑龙江省"
+
+牡丹江市:
+  Code: "231000"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "东安区、阳明区、爱民区、西安区、绥芬河市、海林市、宁安市、穆棱市、东宁市、林囗县"
+  Name: "牡丹江市"
+  PhoneCode: "0453"
+  Postcode: "157000"
+  Province: "黑龙江省"
+
+黑河市:
+  Code: "231100"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "爱辉区、北安市、五大连池市、嫩江市、逊克县、孙吴县"
+  Name: "黑河市"
+  PhoneCode: "0456"
+  Postcode: "164300"
+  Province: "黑龙江省"
+
+绥化市:
+  Code: "231200"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "北林区、安达市、肇东市、海伦市、望奎县、兰西县、青冈县、庆安县、明水县、绥棱县"
+  Name: "绥化市"
+  PhoneCode: "0455"
+  Postcode: "152000"
+  Province: "黑龙江省"
+
+大兴安岭地区:
+  Code: "232700"
+  CarPlate: ""
+  Level: "地区"
+  MunicipalDistrict: "漠河市、呼玛县、塔河县"
+  Name: "大兴安岭地区"
+  PhoneCode: "0457"
+  Postcode: "165000"
+  Province: "黑龙江省"
