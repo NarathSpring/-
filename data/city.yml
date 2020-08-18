@@ -543,3 +543,124 @@
   Province: "山西省"
 
 # 内蒙古
+呼和浩特:
+  Code: "150100"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "新城区、回民区、玉泉区、赛罕区、托克托县、和林格尔县、清水河县、武川县、土默特左旗"
+  Name: "呼和浩特市"
+  PhoneCode: "0471"
+  Postcode: "010000"
+  Province: "内蒙古自治区"
+
+包头:
+  Code: "150200"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "昆都仑区、东河区、青山区、石拐区、白云鄂博矿区、九原区、阳县、土默特右旗、达尔罕茂明安联合旗"
+  Name: "包头市"
+  PhoneCode: "0472"
+  Postcode: "014025"
+  Province: "内蒙古自治区"
+
+乌海:
+  Code: "150300"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "海勃湾区、海南区、乌达区"
+  Name: "乌海市"
+  PhoneCode: "0473"
+  Postcode: "016000"
+  Province: "内蒙古自治区"
+
+赤峰:
+  Code: "150400"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "红山区、元宝山区、松山区、林西县、宁城县、阿鲁科尔沁旗、巴林左旗、巴林右旗、克什克腾旗、翁牛特旗、喀沁旗、敖汉旗"
+  Name: "赤峰市"
+  PhoneCode: "0476"
+  Postcode: "024000"
+  Province: "内蒙古自治区"
+
+通辽市:
+  Code: "150500"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "科尔沁区、霍林郭勒市、开鲁县、库伦旗、奈曼旗、扎鲁特旗、科尔沁左翼中旗、科尔沁左到后旗"
+  Name: "通辽市"
+  PhoneCode: "0475"
+  Postcode: "028000"
+  Province: "内蒙古自治区"
+
+鄂尔多斯市:
+  Code: "150600"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "东胜区、康巴什区、达拉特旗、准格尔旗、鄂托壳前旗、鄂托壳旗、杭锦旗、乌审旗、伊金霍洛旗"
+  Name: "鄂尔多斯市"
+  PhoneCode: "0477"
+  Postcode: "017004"
+  Province: "内蒙古自治区"
+
+呼伦贝尔市:
+  Code: "150700"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "海拉尔区、扎责诺尔区、满洲里市、牙克石市、扎兰屯市、额尔古纳市、根河市、阿荣旗、陈巴尔虎旗、新巴尔虎左旗、新巴尔虎右旗、莫力达瓦达斡尔族自治旗、鄂伦春自治旗、鄂温克族自治旗"
+  Name: "呼伦贝尔市"
+  PhoneCode: "0470"
+  Postcode: "021008"
+  Province: "内蒙古自治区"
+
+巴彦淖尔市:
+  Code: "150800"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "临河区、五原县、磴口县、乌拉特前旗、乌拉特中旗、乌拉特后旗、杭锦后旗"
+  Name: "巴彦淖尔市"
+  PhoneCode: "0478"
+  Postcode: "015001"
+  Province: "内蒙古自治区"
+
+乌兰察布市:
+  Code: "150900"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "集宁区、丰镇市、卓资县、化德县、商都县、兴和县、凉城县、察哈尔右前旗、察哈尔右美中旗、察哈尔右翼后旗、四子王旗"
+  Name: "乌兰察布市"
+  PhoneCode: "0474"
+  Postcode: "012000"
+  Province: "内蒙古自治区"
+
+兴安盟:
+  Code: "152200"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "乌兰浩特市、阿尔山市、突泉县、科尔沁右美前旗、科尔沁右翼中旗、扎责特旗"
+  Name: "兴安盟"
+  PhoneCode: "0482"
+  Postcode: "137401"
+  Province: "内蒙古自治区"
+
+锡林郭勒盟:
+  Code: "152500"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "锡林浩特市、二连浩特市、多伦县、阿巴嘎旗、苏尼特左旗、苏尼特右旗、东乌珠穆沁旗、西乌珠穆沁旗、太仆寺旗、镶黄旗、正镶白旗、正蓝旗"
+  Name: "锡林郭勒盟"
+  PhoneCode: "0479"
+  Postcode: "026000"
+  Province: "内蒙古自治区"
+
+阿拉善盟:
+  Code: "152900"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "阿拉善左旗、阿拉善右旗、额济纳旗"
+  Name: "阿拉善盟"
+  PhoneCode: "0483"
+  Postcode: "750306"
+  Province: "内蒙古自治区"
+
+# 辽宁省
