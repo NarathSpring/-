@@ -805,3 +805,93 @@
   Province: "辽宁省"
 
 # 吉林省
+长春市:
+  Code: "220100"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "南关区、宽城区、朝阳区、二道区、绿园区、双阳区、九台区、榆树市、德惠市、农安县"
+  Name: "长春市"
+  PhoneCode: "0431"
+  Postcode: "130022"
+  Province: "吉林省"
+
+吉林市:
+  Code: "220200"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "船营区、昌邑区、龙潭区、丰满区、蛟河市、桦甸市、舒兰市、磐石市、永吉县"
+  Name: "吉林市"
+  PhoneCode: "0432"
+  Postcode: "132011"
+  Province: "吉林省"
+
+四平市:
+  Code: "220300"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "铁西区、铁东区、公主岭市、双辽市、梨树县、伊通满族自治县"
+  Name: "四平市"
+  PhoneCode: "0434"
+  Postcode: "136000"
+  Province: "吉林省"
+
+辽源市:
+  Code: "220400"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "龙山区、西安区、东丰县、东辽县"
+  Name: "辽源市"
+  PhoneCode: "0437"
+  Postcode: "136200"
+  Province: "吉林省"
+
+通化市:
+  Code: "220500"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "东昌区、二道江区、梅河口市、集安市、通化县、辉南县、柳河县"
+  Name: "通化市"
+  PhoneCode: "0435"
+  Postcode: "134001"
+  Province: "吉林省"
+
+白山市:
+  Code: "220600"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "浑江区、江源区、临江市、抚松县、靖宇县、长白朝鲜族自治县"
+  Name: "白山市"
+  PhoneCode: "0439"
+  Postcode: "134300"
+  Province: "吉林省"
+
+松原市:
+  Code: "220700"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "宁江区、扶余市、长岭县、乾安县、前郭尔罗斯蒙古族自治县"
+  Name: "松原市"
+  PhoneCode: "0438"
+  Postcode: "138000"
+  Province: "吉林省"
+
+白城市:
+  Code: "220800"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "洮北区、洮南市、大安市、镇县、通榆县"
+  Name: "白城市"
+  PhoneCode: "0436"
+  Postcode: "137000"
+  Province: "吉林省"
+
+延边朝鲜族自治州:
+  Code: "222400"
+  CarPlate: ""
+  Level: "自治州"
+  MunicipalDistrict: "延吉市、图们市、敦化市、珲春市、龙井市、和龙市、汪清县、安图县"
+  Name: "延边朝鲜族自治州"
+  PhoneCode: "0433"
+  Postcode: "133000"
+  Province: "吉林省"
+
