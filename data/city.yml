@@ -1318,3 +1318,115 @@
   Postcode: "223800"
   Province: "江苏省"
 
+# 浙江省
+杭州市:
+  Code: "330100"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: "杭州市"
+  PhoneCode: "0571"
+  Postcode: "310026"
+  Province: "浙江省"
+  
+宁波市:
+  Code: "330200"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: "宁波市"
+  PhoneCode: "0574"
+  Postcode: "315000"
+  Province: "浙江省"
+
+温州市:
+  Code: "330300"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: "温州市"
+  PhoneCode: "0577"
+  Postcode: "325000"
+  Province: "浙江省"
+
+嘉兴市:
+  Code: "330400"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: "嘉兴市"
+  PhoneCode: "0573"
+  Postcode: "314000"
+  Province: "浙江省"
+
+湖州市:
+  Code: "330500"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: "湖州市"
+  PhoneCode: "0572"
+  Postcode: "313000"
+  Province: "浙江省"
+
+绍兴市:
+  Code: "330600"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: "绍兴市"
+  PhoneCode: "0575"
+  Postcode: "312000"
+  Province: "浙江省"
+
+金华市:
+  Code: "330700"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: "金华市"
+  PhoneCode: "0579"
+  Postcode: "321000"
+  Province: "浙江省"
+
+衢州市:
+  Code: "330800"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: "衢州市"
+  PhoneCode: "0570"
+  Postcode: "324002"
+  Province: "浙江省"
+
+舟山市:
+  Code: "330900"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: "舟山市"
+  PhoneCode: "0580"
+  Postcode: "316000"
+  Province: "浙江省"
+
+台州市:
+  Code: "331000"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: "台州市"
+  PhoneCode: "0576"
+  Postcode: "318000"
+  Province: "浙江省"
+
+丽水市:
+  Code: "331100"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: "丽水市"
+  PhoneCode: "0578"
+  Postcode: "323000"
+  Province: "浙江省"
+
+# 安徽省
