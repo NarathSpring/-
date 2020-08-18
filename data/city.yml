@@ -1187,3 +1187,134 @@
   Postcode: "202150"
   Province: "上海市"
 
+# 江苏省
+南京市:
+  Code: "310100"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "玄武区、秦淮区、建师区、鼓楼区、浦口区、栖霞区、雨花台区、江宁区、六合区、溧水区、高淳区"
+  Name: "南京市"
+  PhoneCode: "025"
+  Postcode: "210008"
+  Province: "江苏省"
+
+无锡市:
+  Code: "210200"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "梁溪区、锡山区、惠山区、滨湖区、新吴区、江阴市、宜兴市"
+  Name: "无锡市"
+  PhoneCode: "0510"
+  Postcode: "214000"
+  Province: "江苏省"
+
+徐州市:
+  Code: "320300"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "云龙区、鼓楼区、贾汪区、泉山区、铜山区、新沂市、邳州市、丰县、沛县、睢宁县"
+  Name: "徐州市"
+  PhoneCode: "0516"
+  Postcode: "221003"
+  Province: "江苏省"
+
+常州市:
+  Code: "320400"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "新北区、天宁区、钟楼区、武进区、金坛区、溧阳市"
+  Name: "常州市"
+  PhoneCode: "0519"
+  Postcode: "213003"
+  Province: "江苏省"
+
+苏州市:
+  Code: "320500"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "姑苏区、虎丘区、吴中区、相城区、吴江区、常熟市、张家港市、昆山市、太仓市"
+  Name: "苏州市"
+  PhoneCode: "0512"
+  Postcode: "215002"
+  Province: "江苏省"
+
+南通市:
+  Code: "320600"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "崇川区、港闸区、通州区、启东市、如皋市、海门市、海安市、如东县"
+  Name: "南通市"
+  PhoneCode: "0513"
+  Postcode: "226001"
+  Province: "江苏省"
+
+连云港市:
+  Code: "320700"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "海州区、连云区、赣榆区、东海县、灌云县、灌南县"
+  Name: "连云港市"
+  PhoneCode: "0518"
+  Postcode: "222002"
+  Province: "江苏省"
+
+淮安市:
+  Code: "320800"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "淮安区、淮阴区、清江浦区、洪泽区、涟水县、盱眙县、金湖县"
+  Name: "淮安市"
+  PhoneCode: "0517"
+  Postcode: "223001"
+  Province: "江苏省"
+
+盐城市:
+  Code: "320900"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "亭湖区、盐都区、大丰区、东台市、响水县、滨海县、皇宁县、射阳县、建湖县"
+  Name: "盐城市"
+  PhoneCode: "0515"
+  Postcode: "224005"
+  Province: "江苏省"
+
+扬州市:
+  Code: "321000"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "邗江区、广陵区、江都区、仪征市、高邮市、宝应县"
+  Name: "扬州市"
+  PhoneCode: "0514"
+  Postcode: "225002"
+  Province: "江苏省"
+
+镇江市:
+  Code: "321100"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "京口区、润州区、丹徒区、丹阳市、扬中市、句容市"
+  Name: "镇江市"
+  PhoneCode: "0511"
+  Postcode: "212004"
+  Province: "江苏省"
+
+泰州市:
+  Code: "321200"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "海陵区、高港区、姜堰区、兴化市、靖江市、泰兴市"
+  Name: "泰州市"
+  PhoneCode: "0523"
+  Postcode: "225300"
+  Province: "江苏省"
+
+宿迁市:
+  Code: "321300"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "宿城区、宿豫区、沐阳县、泗阳县、泗洪县"
+  Name: "宿迁市"
+  PhoneCode: "0527"
+  Postcode: "223800"
+  Province: "江苏省"
+
