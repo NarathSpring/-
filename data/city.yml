@@ -664,3 +664,144 @@
   Province: "内蒙古自治区"
 
 # 辽宁省
+沈阳市:
+  Code: "210100"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "沈河区、和平区、大东区、皇姑区、铁西区、苏家屯区、浑南区、沈北新区、于洪区、辽中区、新民市、康平县、法库县"
+  Name: "沈阳市"
+  PhoneCode: "024"
+  Postcode: "110013"
+  Province: "辽宁省"
+
+大连市:
+  Code: "210200"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "西岗区、中山区、沙河口区、甘井子区、旅顺口区、金州区、瓦房店市、普兰店区、庄河市、长海县"
+  Name: "大连市"
+  PhoneCode: "0411"
+  Postcode: "116011"
+  Province: "辽宁省"
+
+鞍山市:
+  Code: "210300"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "铁东区、铁西区、立山区、千山区、海城市、台安县、岫岩满族自治县"
+  Name: "鞍山市"
+  PhoneCode: "0412"
+  Postcode: "114001"
+  Province: "辽宁省"
+
+抚顺市:
+  Code: "210400"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "顺城区、新抚区、东洲区、望花区、抚顺县、新宾满族自治县、清原满族自治县"
+  Name: "抚顺市"
+  PhoneCode: "024"
+  Postcode: "113008"
+  Province: "辽宁省"
+
+本溪市:
+  Code: "210500"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "平山区、溪湖区、明山区、南芬区、本溪满族自治县、桓仁满族自治县"
+  Name: "本溪市"
+  PhoneCode: "024"
+  Postcode: "117000"
+  Province: "辽宁省"
+
+丹东市:
+  Code: "210600"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "振兴区、元宝区、振安区、东港市、凤城市、宽甸满族自治县"
+  Name: "丹东市"
+  PhoneCode: "0415"
+  Postcode: "118000"
+  Province: "辽宁省"
+
+锦州市:
+  Code: "210700"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "太和区、古塔区、凌河区、凌海市、北镇市、黑山县、义县"
+  Name: "锦州市"
+  PhoneCode: "0416"
+  Postcode: "121000"
+  Province: "辽宁省"
+
+营口市:
+  Code: "210800"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "站前区、西市区、鲅鱼园区、老边区、盖州市、大石桥市"
+  Name: "营口市"
+  PhoneCode: "0417"
+  Postcode: "115003"
+  Province: "辽宁省"
+
+阜新市:
+  Code: "210900"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "细河区、海州区、新邱区、太平区、清河门区、彰武县、阜新蒙古族自治县"
+  Name: "阜新市"
+  PhoneCode: "0418"
+  Postcode: "123000"
+  Province: "辽宁省"
+
+辽阳市:
+  Code: "211000"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "白塔区、文圣区、宏伟区、弓长岭区、太子河区、灯塔市、辽阳县"
+  Name: "辽阳市"
+  PhoneCode: "0419"
+  Postcode: "111000"
+  Province: "辽宁省"
+
+盘锦市:
+  Code: "211100"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "兴隆台区、双台子区、大洼区、盘山县"
+  Name: "盘锦市"
+  PhoneCode: "0427"
+  Postcode: "124010"
+  Province: "辽宁省"
+
+铁岭市:
+  Code: "211200"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "银州区、清河区、调兵山市、开原市、铁岭县、西丰县、昌图县"
+  Name: "铁岭市"
+  PhoneCode: "024"
+  Postcode: "112000"
+  Province: "辽宁省"
+
+朝阳市:
+  Code: "211300"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "双塔区、龙城区、北票市、凌源市、朝阳县、建平县、喀喇沁左奚蒙古族自治县"
+  Name: "朝阳市"
+  PhoneCode: "0421"
+  Postcode: "122000"
+  Province: "辽宁省"
+
+葫芦岛市:
+  Code: "211400"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "龙港区、连山区、南票区、兴城市、绥中县、建昌县"
+  Name: "葫芦岛市"
+  PhoneCode: "0429"
+  Postcode: "125000"
+  Province: "辽宁省"
+
+# 吉林省
