@@ -1025,3 +1025,165 @@
   PhoneCode: "0457"
   Postcode: "165000"
   Province: "黑龙江省"
+
+# 上海市
+黄浦区:
+  Code: "310101"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "黄浦区"
+  PhoneCode: "021"
+  Postcode: "200001"
+  Province: "上海市"
+
+徐汇区:
+  Code: "310104"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "徐汇区"
+  PhoneCode: "021"
+  Postcode: "200030"
+  Province: "上海市"
+
+长宁区:
+  Code: "310105"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "长宁区"
+  PhoneCode: "021"
+  Postcode: "200050"
+  Province: "上海市"
+
+静安区:
+  Code: "310106"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "静安区"
+  PhoneCode: "021"
+  Postcode: "200040"
+  Province: "上海市"
+
+普陀区:
+  Code: "310107"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "普陀区"
+  PhoneCode: "021"
+  Postcode: "200333"
+  Province: "上海市"
+
+虹口区:
+  Code: "310109"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "虹口区"
+  PhoneCode: "021"
+  Postcode: "200086"
+  Province: "上海市"
+
+杨浦区:
+  Code: "310110"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "杨浦区"
+  PhoneCode: "021"
+  Postcode: "200082"
+  Province: "上海市"
+
+闵行区:
+  Code: "310112"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "闵行区"
+  PhoneCode: "021"
+  Postcode: "201100"
+  Province: "上海市"
+
+宝山区:
+  Code: "310113"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "宝山区"
+  PhoneCode: "021"
+  Postcode: "201900"
+  Province: "上海市"
+
+嘉定区:
+  Code: "310114"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "嘉定区"
+  PhoneCode: "021"
+  Postcode: "201800"
+  Province: "上海市"
+
+浦东新区:
+  Code: "310115"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "浦东新区"
+  PhoneCode: "021"
+  Postcode: "200135"
+  Province: "上海市"
+
+金山区:
+  Code: "310116"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "金山区"
+  PhoneCode: "021"
+  Postcode: "200540"
+  Province: "上海市"
+
+松江区:
+  Code: "310117"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "松江区"
+  PhoneCode: "021"
+  Postcode: "201600"
+  Province: "上海市"
+
+青浦区:
+  Code: "310118"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "青浦区"
+  PhoneCode: "021"
+  Postcode: "201700"
+  Province: "上海市"
+
+奉贤区:
+  Code: "310120"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "奉贤区"
+  PhoneCode: "021"
+  Postcode: "201400"
+  Province: "上海市"
+
+崇明区:
+  Code: "310151"
+  CarPlate: ""
+  Level: "市辖区"
+  MunicipalDistrict: ""
+  Name: "崇明区"
+  PhoneCode: "021"
+  Postcode: "202150"
+  Province: "上海市"
+
