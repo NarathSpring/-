@@ -1591,3 +1591,94 @@
   Province: "安徽省"
 
 # 福建省
+福州市:
+  Code: "350100"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "鼓楼区、台江区、仓山区、马尾区、晋安区、长乐区、福清市、间侯县、连江县、罗源县、闽清县、永泰县、平潭县"
+  Name: "福州市"
+  PhoneCode: "0591"
+  Postcode: "350001"
+  Province: "福建省"
+
+厦门市:
+  Code: "350200"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "思明区、海沧区、湖里区、集美区、同安区、翔安区"
+  Name: "厦门市"
+  PhoneCode: "0592"
+  Postcode: "361003"
+  Province: "福建省"
+
+莆田市:
+  Code: "350300"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "城厢区、涵江区、荔城区、秀屿区、仙游县"
+  Name: "莆田市"
+  PhoneCode: "0594"
+  Postcode: "351100"
+  Province: "福建省"
+
+三明市:
+  Code: "350400"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "梅列区、三元区、永安市、明溪县、清流县、宁化县、大田县、尤溪县、沙县、将乐县、泰宁县、建宁县"
+  Name: "三明市"
+  PhoneCode: "0598"
+  Postcode: "365000"
+  Province: "福建省"
+
+泉州市:
+  Code: "350500"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "丰泽区、鲤城区、洛江区、泉港区、石狮市、晋江市、南安市、惠安县、安溪县、永春县、德化县、金门县女"
+  Name: "泉州市"
+  PhoneCode: "0595"
+  Postcode: "362000"
+  Province: "福建省"
+
+漳州市:
+  Code: "350600"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "龙文区、艺城区、龙海市、云县、漳浦县、诏安县、长泰县、东山县、南靖县、平和县、华安县"
+  Name: "漳州市"
+  PhoneCode: "0596"
+  Postcode: "363005"
+  Province: "福建省"
+
+南平市:
+  Code: "350700"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "建阳区、延平区、邵武市、武夷山市、建瓯市、顺昌县、浦城县、光泽县、松溪县、政和县"
+  Name: "南平市"
+  PhoneCode: "0599"
+  Postcode: "353000"
+  Province: "福建省"
+
+龙岩市:
+  Code: "350800"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "新罗区、永定区、漳平市、长汀县、上杭县、武平县、连城县"
+  Name: "龙岩市"
+  PhoneCode: "0597"
+  Postcode: "364000"
+  Province: "福建省"
+
+宁德市:
+  Code: "350900"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "蕉城区、福安市、福鼎市、浦县、古田县、屏南县、寿宁县、周宁县、柘荣县"
+  Name: "宁德市"
+  PhoneCode: "0593"
+  Postcode: "352100"
+  Province: "福建省"
+
+# 江西省
