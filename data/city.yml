@@ -1430,3 +1430,164 @@
   Province: "浙江省"
 
 # 安徽省
+合肥市:
+  Code: "340100"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "蜀山区、逕海区、庐阳区、包河区、果湖市、长丰县、肥东县、肥西县、庐江县"
+  Name: "合肥市"
+  PhoneCode: "0551"
+  Postcode: "230001"
+  Province: "安徽省"
+
+芜湖市:
+  Code: "340200"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "鸠江区、镜湖区、弋江区、三山区、无为市、芜湖县、繁昌县、南陵县"
+  Name: "芜湖市"
+  PhoneCode: "0553"
+  Postcode: "241000"
+  Province: "安徽省"
+
+蚌埠市:
+  Code: "340300"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "蚌山区、龙子湖区、禹会区、淮上区、怀远县、五河县、国镇县"
+  Name: "蚌埠市"
+  PhoneCode: "0552"
+  Postcode: "233000"
+  Province: "安徽省"
+
+淮南市:
+  Code: "340400"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "田家庵区、大通区、谢家集区、八公山区、潘集区、凤台县、寿县"
+  Name: "淮南市"
+  PhoneCode: "0554"
+  Postcode: "232001"
+  Province: "安徽省"
+
+马鞍山市:
+  Code: "340500"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "雨山区、花山区、博望区、当涂县、含山县、和县"
+  Name: "马鞍山市"
+  PhoneCode: "0555"
+  Postcode: "243001"
+  Province: "安徽省"
+
+淮北市:
+  Code: "340600"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "相山区、杜集区、烈山区、濉溪县"
+  Name: "淮北市"
+  PhoneCode: "0561"
+  Postcode: "235000"
+  Province: "安徽省"
+
+铜陵市:
+  Code: "340700"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "铜官区、义安区、郊区、枞阳县"
+  Name: "铜陵市"
+  PhoneCode: "0562"
+  Postcode: "244000"
+  Province: "安徽省"
+
+安庆市:
+  Code: "340800"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "大观区、迎江区、宜秀区、桐城市、潜山市、怀宁县、太湖县、宿松县、望江县、岳西县"
+  Name: "安庆市"
+  PhoneCode: "0556"
+  Postcode: "246001"
+  Province: "安徽省"
+
+黄山市:
+  Code: "341000"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "屯溪区、黄山区、徽州区、款县、休宁县、黟县、祁门县"
+  Name: "黄山市"
+  PhoneCode: "0559"
+  Postcode: "245000"
+  Province: "安徽省"
+
+滁州市:
+  Code: "341100"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "琅琊区、南谯区、天长市、明光市、来安县、全椒县、定远县、凤阳县"
+  Name: "滁州市"
+  PhoneCode: "0550"
+  Postcode: "239000"
+  Province: "安徽省"
+
+阜阳市:
+  Code: "341200"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "颢州区、颖东区、颖泉区、界首市、临泉县、太和县、皇南县、颍上县"
+  Name: "阜阳市"
+  PhoneCode: "0558"
+  Postcode: "236033"
+  Province: "安徽省"
+
+宿州市:
+  Code: "341300"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "埇桥区、砀山县、萧县、灵璧县、泗县"
+  Name: "宿州市"
+  PhoneCode: "0557"
+  Postcode: "234000"
+  Province: "安徽省"
+
+六安市:
+  Code: "341500"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "金安区、裕安区、叶集区、霍邱县、舒城县、金赛县、翟山县"
+  Name: "六安市"
+  PhoneCode: "0564"
+  Postcode: "237000"
+  Province: "安徽省"
+
+毫州市:
+  Code: "341600"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "谯城区、涡阳县、蒙城县、利辛县"
+  Name: "毫州市"
+  PhoneCode: "0558"
+  Postcode: "236802"
+  Province: "安徽省"
+
+池州市:
+  Code: "341700"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "贵池区、东至县、石台县、青阳县"
+  Name: "池州市"
+  PhoneCode: "0566"
+  Postcode: "237100"
+  Province: "安徽省"
+
+宣城市:
+  Code: "341800"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "宣州区、宁国市、广德市、郎溪县、泾县、绩溪县、旌德县"
+  Name: "宣城市"
+  PhoneCode: "0563"
+  Postcode: "242000"
+  Province: "安徽省"
+
+# 福建省
