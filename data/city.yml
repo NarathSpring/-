@@ -1954,3 +1954,214 @@
   Province: "山东省"
 
 # 河南省
+郑州市:
+  Code: "410100"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "中原区、二七区、管城回族区、金水区、上街区、惠济区、巩义市、荥阳市、新密市、新郑市、登封市、中牟县"
+  Name: "郑州市"
+  PhoneCode: "0371"
+  Postcode: "450000"
+  Province: "河南省"
+
+开封市:
+  Code: "410200"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "鼓楼区、龙亭区、顺河回族区、禹王台区、祥符区、杞县、通许县、尉氏县、兰考县"
+  Name: "开封市"
+  PhoneCode: "0371"
+  Postcode: "475001"
+  Province: "河南省"
+
+洛阳市:
+  Code: "410300"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "西工区、老城区、度河回族区、西区、吉利区、洛龙区、偃师市、孟津县、新安县、栾川县、青县、阳县、宣阳县、洛宁县、伊川县"
+  Name: "洛阳市"
+  PhoneCode: "0379"
+  Postcode: "471000"
+  Province: "河南省"
+
+平顶山市:
+  Code: "410400"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "新华区、卫东区、石龙区、湛河区、舞钢市、汝州市、宝丰县、叶县、鲁山县、郏县"
+  Name: "平顶山市"
+  PhoneCode: "0375"
+  Postcode: "467000"
+  Province: "河南省"
+
+安阳市:
+  Code: "410500"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "北关区、文峰区、殷都区、龙安区、林州市、安阳县、汤阴县、滑县、内黄县"
+  Name: "安阳市"
+  PhoneCode: "0372"
+  Postcode: "455000"
+  Province: "河南省"
+
+鹤壁市:
+  Code: "410600"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "淇滨区、鹤山区、山城区、浚县、淇县"
+  Name: "鹤壁市"
+  PhoneCode: "0392"
+  Postcode: "458030"
+  Province: "河南省"
+
+新乡市:
+  Code: "410700"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "卫滨区、红旗区、凤泉区、牧野区、卫辉市、辉县市、长垣市、新乡县、获嘉县、原阳县、延津县、封丘县"
+  Name: "新乡市"
+  PhoneCode: "0373"
+  Postcode: "453000"
+  Province: "河南省"
+
+焦作市:
+  Code: "410800"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "解放区、中站区、马村区、山阳区、沁阳市、孟州市、修武县、博爱县、武陟县、温县"
+  Name: "焦作市"
+  PhoneCode: "0391"
+  Postcode: "454002"
+  Province: "河南省"
+
+濮阳市:
+  Code: "410900"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "华龙区、清丰县、南乐县、范县、台前县、濮阳县"
+  Name: "濮阳市"
+  PhoneCode: "0393"
+  Postcode: "457000"
+  Province: "河南省"
+
+许昌市:
+  Code: "411100"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "魏都区、建安区、禹州市、长葛市、部陵县、襄城县"
+  Name: "许昌市"
+  PhoneCode: "0374"
+  Postcode: "461000"
+  Province: "河南省"
+
+漯河市:
+  Code: "4111000"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "郾域区、源汇区、召陵区、舞阳县、临颍县"
+  Name: "漯河市"
+  PhoneCode: "0395"
+  Postcode: "462000"
+  Province: "河南省"
+
+三门峡市:
+  Code: "411200"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "湖滨区、陕州区、义马市、灵宝市、渑池县、卢氏县"
+  Name: "三门峡市"
+  PhoneCode: "0398"
+  Postcode: "472000"
+  Province: "河南省"
+
+南阳市:
+  Code: "411300"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "卧龙区、宛城区、邓州市、南召县、方城县、西峡县、镇平县、内乡县、渐川县、社旗县、唐河县、新野县、桐柏县"
+  Name: "南阳市"
+  PhoneCode: "0377"
+  Postcode: "473002"
+  Province: "河南省"
+
+商丘市:
+  Code: "411400"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "梁园区、阳区、永城市、民权县、睢县、宁陵县、柘城县、城县、夏邑县"
+  Name: "商丘市"
+  PhoneCode: "0370"
+  Postcode: "476000"
+  Province: "河南省"
+
+信阳市:
+  Code: "411500"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "源河区、平桥区、罗山县、光山县、新县、商城县、国始县、潢川县、准滨县、息县"
+  Name: "信阳市"
+  PhoneCode: "0376"
+  Postcode: "464000"
+  Province: "河南省"
+
+周口市:
+  Code: "411600"
+  CarPlate: "0394"
+  Level: "地级市"
+  MunicipalDistrict: "川汇区、淮阳区、项城市、扶沟县、西华县、商水县、沈丘县、郸城县、太康县、鹿邑县"
+  Name: "周口市"
+  PhoneCode: ""
+  Postcode: "466000"
+  Province: "河南省"
+
+驻马店市:
+  Code: "411700"
+  CarPlate: "0396"
+  Level: "地级市"
+  MunicipalDistrict: "驿城区、西平县、上蔡县、平舆县、正阳县、确山县、泌阳县、汝南县、遂平县、新蔡县"
+  Name: "驻马店市"
+  PhoneCode: ""
+  Postcode: "463000"
+  Province: "河南省"
+
+济源市:
+  Code: "419001"
+  CarPlate: "0391"
+  Level: "省直辖县级行政单位"
+  MunicipalDistrict: ""
+  Name: "济源市"
+  PhoneCode: ""
+  Postcode: "454650"
+  Province: "河南省"
+
+# 湖北省
+:
+  Code: ""
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: ""
+  PhoneCode: ""
+  Postcode: ""
+  Province: "河南省"
+
+:
+  Code: ""
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: ""
+  PhoneCode: ""
+  Postcode: ""
+  Province: "河南省"
+
+:
+  Code: ""
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: ""
+  PhoneCode: ""
+  Postcode: ""
+  Province: "河南省"
+
