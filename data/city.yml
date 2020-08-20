@@ -1682,3 +1682,126 @@
   Province: "福建省"
 
 # 江西省
+南昌市:
+  Code: "360100"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "东湖区、西湖区、青云谱区、青山湖区、新建区、红谷滩区、南昌县、安义县、进贤县"
+  Name: "南昌市"
+  PhoneCode: "0791"
+  Postcode: "330008"
+  Province: "江西省"
+
+景德镇市:
+  Code: "360200"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "昌江区、珠山区、乐平市、浮梁县"
+  Name: "景德镇市"
+  PhoneCode: "0798"
+  Postcode: "333000"
+  Province: "江西省"
+
+萍乡市:
+  Code: "363000"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "安源区、湘东区、莲花县、上栗县、芦溪县"
+  Name: "萍乡市"
+  PhoneCode: "0799"
+  Postcode: "337000"
+  Province: "江西省"
+
+九江市:
+  Code: "360400"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "浔阳区、廉溪区、柴桑区、瑞昌市、共青城市、庐山市、武宁县、修水县、永修县、德安县、都昌县、湖口县、彭泽县"
+  Name: "九江市"
+  PhoneCode: "0792"
+  Postcode: "332000"
+  Province: "江西省"
+
+新余市:
+  Code: "360500"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "渝水区、分宜县"
+  Name: "新余市"
+  PhoneCode: "0790"
+  Postcode: "338025"
+  Province: "江西省"
+
+鹰潭市:
+  Code: "360600"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "月湖区、余江区、贵溪市"
+  Name: "鹰潭市"
+  PhoneCode: "0701"
+  Postcode: "335000"
+  Province: "江西省"
+
+赣州市:
+  Code: "360700"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "章贡区、南康区、信丰县、大余县、上犹县、崇义县、安近县、龙南县、定南县、全南县、宁都县、兴国县、会昌县、寻乌县、石城县"
+  Name: "赣州市"
+  PhoneCode: "0797"
+  Postcode: "341000"
+  Province: "江西省"
+
+吉安市:
+  Code: "360800"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "吉州区、青原区、井冈山市、吉安县、吉水县、峡江县、新干县、永丰县、泰和县、遂川县、万安县、安福县、永新县"
+  Name: "吉安市"
+  PhoneCode: "0796"
+  Postcode: "343000"
+  Province: "江西省"
+
+宜春市:
+  Code: "360900"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "袁州区、丰域市、樟树市、高安市、奉新县、万载县、上高县、宜丰县、靖安县、铜鼓县"
+  Name: "宜春市"
+  PhoneCode: "0795"
+  Postcode: "336000"
+  Province: "江西省"
+
+抚州市:
+  Code: "361000"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "临川区、东乡区、南城县、黎川县、南丰县、崇仁县、乐安县、宜黄县、金溪县、资溪县、广昌县"
+  Name: "抚州市"
+  PhoneCode: "0794"
+  Postcode: "344000"
+  Province: "江西省"
+
+上饶市:
+  Code: "361100"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "信州区、广丰区、广信区、德兴市、玉山县、铅山县、横峰县、弋阳县、余干县、部阳县、万年县、婺源县"
+  Name: "上饶市"
+  PhoneCode: "0793"
+  Postcode: "334000"
+  Province: "江西省"
+
+# 山东省
+:
+  Code: ""
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: ""
+  PhoneCode: ""
+  Postcode: ""
+  Province: "江西省"
+
+
+
