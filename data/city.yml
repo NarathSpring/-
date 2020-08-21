@@ -2306,3 +2306,166 @@
   Province: "湖北省"
 
 # 湖南省
+长沙市:
+  Code: "430100"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "岳麓区、芙蓉区、天心区、开福区、雨花区、望城区、浏阳市、宁乡市、长沙县"
+  Name: "长沙市"
+  PhoneCode: "0731"
+  Postcode: "410005"
+  Province: "湖南省"
+
+株洲市:
+  Code: "430200"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "天元区、荷塘区、芦淞区、石峰区、渌囗区、醴陵市、攸县、茶陵县、炎陵县"
+  Name: "株洲市"
+  PhoneCode: "0731"
+  Postcode: "412000"
+  Province: "湖南省"
+
+湘潭市:
+  Code: "430300"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "岳塘区、雨湖区、湘乡市、留山市、湘县"
+  Name: "湘潭市"
+  PhoneCode: "0731"
+  Postcode: "411100"
+  Province: "湖南省"
+
+衡阳市:
+  Code: "430400"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "燕湘区、珠晖区、雁峰区、石鼓区、南岳区、耒阳市、常宁市、衡阳县、衡南县、衡山县、衡东县、祁东县"
+  Name: "衡阳市"
+  PhoneCode: "0734"
+  Postcode: "421001"
+  Province: "湖南省"
+
+邵阳市:
+  Code: "430500"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "大祥区、双清区、北塔区、武冈市、邵东市、新邵县、邵阳县、隆回县、洞口县、绥宁县、新宁县、城步苗族自治县"
+  Name: "邵阳市"
+  PhoneCode: "0739"
+  Postcode: "422000"
+  Province: "湖南省"
+
+岳阳市:
+  Code: "430600"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "岳阳楼区、云溪区、君山区、汨罗市、临湘市、岳阳县、华容县、湘阴县、平江县"
+  Name: "岳阳市"
+  PhoneCode: "0730"
+  Postcode: "414000"
+  Province: "湖南省"
+
+常德市:
+  Code: "430700"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "武陵区、鼎城区、津市市、安乡县、汉寿县、澧县、临澧县、桃源县、石门县"
+  Name: "常德市"
+  PhoneCode: "0736"
+  Postcode: "415000"
+  Province: "湖南省"
+
+张家界市:
+  Code: "430800"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "永定区、武陵源区、慈利县、桑植县"
+  Name: "张家界市"
+  PhoneCode: "0744"
+  Postcode: "427000"
+  Province: "湖南省"
+
+益阳市:
+  Code: "430900"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "赫山区、资阳区、沅江市、南县、桃江县、安化县"
+  Name: "益阳市"
+  PhoneCode: "0737"
+  Postcode: "413000"
+  Province: "湖南省"
+
+郴州市:
+  Code: "431000"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "北湖区、苏仙区、资兴市、桂阳县、宜章县、永兴县、嘉禾县、临武县、汝城县、桂东县、安仁县"
+  Name: "郴州市"
+  PhoneCode: "0735"
+  Postcode: "423000"
+  Province: "湖南省"
+
+永州市:
+  Code: "431100"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "冷水滩区、零陵区、祁阳县、东安县、双牌县、道县、江永县、宁远县、蓝山县、新田县、江华瑶族自治县"
+  Name: "永州市"
+  PhoneCode: "0746"
+  Postcode: "425000"
+  Province: "湖南省"
+
+怀化市:
+  Code: "431200"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "鹤城区、洪江市、中方县、沅陵县、辰溪县、叙浦县、会同县、麻阳菌族自治县、新晃侗族自治县、芷江侗族自治县、靖州苗族侗族自治县、通道侗族自治县"
+  Name: "怀化市"
+  PhoneCode: "0745"
+  Postcode: "418000"
+  Province: "湖南省"
+
+娄底市:
+  Code: "431300"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "娄星区、冷水江市、涟源市、双峰县、新化县"
+  Name: "娄底市"
+  PhoneCode: "0738"
+  Postcode: "417000"
+  Province: "湖南省"
+
+湘西土家苗族自治州:
+  Code: "433100"
+  CarPlate: ""
+  Level: "自治州"
+  MunicipalDistrict: "吉首市、泸溪县、凤屋县、花垣县、保靖县、古丈县、永顺县、龙山县"
+  Name: "湘西土家苗族自治州"
+  PhoneCode: "0743"
+  Postcode: "416000"
+  Province: "湖南省"
+
+# 广东省
+:
+  Code: ""
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: ""
+  PhoneCode: ""
+  Postcode: ""
+  Province: "湖南省"
+
+:
+  Code: ""
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: ""
+  PhoneCode: ""
+  Postcode: ""
+  Province: "湖南省"
+
+
+
