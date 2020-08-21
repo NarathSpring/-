@@ -2447,6 +2447,217 @@
   Province: "湖南省"
 
 # 广东省
+广州市:
+  Code: "440100"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "越秀区、荔湾区、海珠区、天河区、白云区、黄埔区、音禹区、花都区、南沙区、增城区、从化区"
+  Name: "广州市"
+  PhoneCode: "020"
+  Postcode: "510032"
+  Province: "广东省"
+
+韶关市:
+  Code: "440200"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "浈江区、武江区、曲江区、乐昌市、南雄市、始兴县、仁化县、翁源县、新丰县、乳源瑶族自治县"
+  Name: "韶关市"
+  PhoneCode: "0751"
+  Postcode: "512002"
+  Province: "广东省"
+
+深圳市:
+  Code: "440300"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "福田区、罗湖区、南山区、宝安区、龙岗区、盐田区、龙华区、坪山区、光明区"
+  Name: "深圳市"
+  PhoneCode: "0755"
+  Postcode: "518035"
+  Province: "广东省"
+
+珠海市:
+  Code: "440400"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "香洲区、斗门区、金湾区"
+  Name: "珠海市"
+  PhoneCode: "0756"
+  Postcode: "519000"
+  Province: "广东省"
+
+汕头市:
+  Code: "440500"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "金平区、龙湖区、濠江区、潮阳区、潮南区、澄海区、南澳县"
+  Name: "汕头市"
+  PhoneCode: "0754"
+  Postcode: "515041"
+  Province: "广东省"
+
+佛山市:
+  Code: "440600"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "禅城区、南海区、顺德区、三水区、高明区"
+  Name: "佛山市"
+  PhoneCode: "0757"
+  Postcode: "528000"
+  Province: "广东省"
+
+江门市:
+  Code: "440700"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "蓬江区、江海区、新会区、台山市、开平市、鹤山市、恩平市"
+  Name: "江门市"
+  PhoneCode: "0750"
+  Postcode: "529000"
+  Province: "广东省"
+
+湛江市:
+  Code: "440800"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "赤坎区、霞山区、坡头区、麻章区、、廉江市雷州市、吴川市、遂溪县、徐闻县"
+  Name: "湛江市"
+  PhoneCode: "0759"
+  Postcode: "524047"
+  Province: "广东省"
+
+茂名市:
+  Code: "440900"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "茂南区、电白区、高州市、化州市、信宜市"
+  Name: "茂名市"
+  PhoneCode: "0668"
+  Postcode: "525000"
+  Province: "广东省"
+
+肇庆市:
+  Code: "441200"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "端州区、鼎湖区、高要区、四会市、广宁县、怀集县、封开县、德庆县"
+  Name: "肇庆市"
+  PhoneCode: "0758"
+  Postcode: "526040"
+  Province: "广东省"
+
+惠州市:
+  Code: "441300"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "惠城区、惠阳区、博罗县、惠东县、龙门县"
+  Name: "惠州市"
+  PhoneCode: "0752"
+  Postcode: "516000"
+  Province: "广东省"
+
+梅州市:
+  Code: "441400"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "梅江区、梅县区、兴宁市、大埔县、丰顺县、五华县、平远县、蕉岭县"
+  Name: "梅州市"
+  PhoneCode: "0753"
+  Postcode: "514021"
+  Province: "广东省"
+
+汕尾市:
+  Code: "441500"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "城区、陆丰市、海丰县、陆河县"
+  Name: "汕尾市"
+  PhoneCode: "0660"
+  Postcode: "516600"
+  Province: "广东省"
+
+河源市:
+  Code: "441600"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "源城区、紫金县、龙川县、连平县、和平县、东源县"
+  Name: "河源市"
+  PhoneCode: "0762"
+  Postcode: "517000"
+  Province: "广东省"
+
+阳江市:
+  Code: "441700"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "江城区、阳东区、阳春市、阳西县"
+  Name: "阳江市"
+  PhoneCode: "0662"
+  Postcode: "529500"
+  Province: "广东省"
+
+清远市:
+  Code: "441800"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "清城区、清新区、英德市、连州市、佛冈县、阳山县、连山壮族瑶族自治县、连南瑶族自治县"
+  Name: "清远市"
+  PhoneCode: "0763"
+  Postcode: "511500"
+  Province: "广东省"
+
+东莞市:
+  Code: "441900"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: "东莞市"
+  PhoneCode: "0769"
+  Postcode: "523888"
+  Province: "广东省"
+
+中山市:
+  Code: "442000"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: "中山市"
+  PhoneCode: "0760"
+  Postcode: "528403"
+  Province: "广东省"
+
+潮州市:
+  Code: "445100"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "湘桥区、潮安区、饶平县"
+  Name: "潮州市"
+  PhoneCode: "0768"
+  Postcode: "521000"
+  Province: "广东省"
+
+揭阳市:
+  Code: "445200"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "榕城区、揭东区、普宁市、揭西县、惠来县"
+  Name: "揭阳市"
+  PhoneCode: "0663"
+  Postcode: "522000"
+  Province: "广东省"
+
+云浮市:
+  Code: "445300"
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: "云城区、云安区、罗定市、新兴县、郁南县"
+  Name: "云浮市"
+  PhoneCode: "0766"
+  Postcode: "527300"
+  Province: "广东省"
+
+# 广西壮族自治区
 :
   Code: ""
   CarPlate: ""
@@ -2455,7 +2666,7 @@
   Name: ""
   PhoneCode: ""
   Postcode: ""
-  Province: "湖南省"
+  Province: "广东省"
 
 :
   Code: ""
@@ -2465,7 +2676,15 @@
   Name: ""
   PhoneCode: ""
   Postcode: ""
-  Province: "湖南省"
+  Province: "广东省"
 
-
+:
+  Code: ""
+  CarPlate: ""
+  Level: "地级市"
+  MunicipalDistrict: ""
+  Name: ""
+  PhoneCode: ""
+  Postcode: ""
+  Province: "广东省"
 
